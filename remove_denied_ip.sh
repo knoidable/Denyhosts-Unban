@@ -1,7 +1,6 @@
 #!/bin/bash
 #Remove a specific IP from denyhosts files
-#By knoid
-#With much help from the googles
+#By Sam Powis
 
 #stop the service
 /etc/init.d/denyhosts stop
