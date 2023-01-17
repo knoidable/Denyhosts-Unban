@@ -1,7 +1,7 @@
 # Denyhosts-Unban
 Remove a banned IP from Denyhosts
 
-I wrote this script 10 years ago when I was still administering servers for a gaming community. I haven't had cause to use it in 9 or so years - as such, it may no longer be functional. Hopefully it's at least useful to someone as a base, though.
+I wrote this script 10 years ago when I was still administering servers for a gaming community. I haven't had cause to use it in 9 or so years - as such, it may no longer be functional. Fairly sure the /etc/init.d stuff will need to be updated. Hopefully it's useful to someone as a base, though.
 
 Text from my original blog entry follows:
 
