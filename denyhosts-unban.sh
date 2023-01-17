@@ -1,6 +1,5 @@
 #!/bin/bash
 # denyhosts-unban
-# Remove a specific IP from denyhosts files
 # Copyright (c) 2013 Sam Powis
 #
 # This program is free software: you can redistribute it and/or modify
@@ -18,7 +17,7 @@
 #
 # @name denyhosts-unban.sh
 # @version 2013-01-22
-# @summary setup
+# @summary Remove an IP address from denyhosts ban lists
 # @params {string} <ip.address.to.remove>
 
 #stop the service
